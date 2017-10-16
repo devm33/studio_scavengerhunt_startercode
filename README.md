@@ -1,4 +1,5 @@
 # Studio Scavenger Hunt
+test
 A scavenger hunt to start off a new year of ScriptEd Studio
 
 - [Overview](#overview)
